@@ -1,0 +1,12 @@
+{
+    "name": "labbati/learn-packagist",
+    "description": "Just a sample project to experiment with package delivery",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Luca Abbati",
+            "email": "luca.abbati@gmail.com"
+        }
+    ],
+    "require": {}
+}
