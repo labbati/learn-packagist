@@ -8,5 +8,8 @@
             "email": "luca.abbati@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "archive": {
+        "exclude": ["**", "!README.md", "!root-file-to-include.txt", "!folder-to-include"]
+    }
 }
